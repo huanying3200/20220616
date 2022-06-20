@@ -1,0 +1,1 @@
+Ctrl+Shift+P, F1   显示命令面板 Show Command Palette
