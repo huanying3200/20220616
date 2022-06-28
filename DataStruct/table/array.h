@@ -34,7 +34,7 @@ int binary_recursive_search(int a[], int left, int right, int x)
     else
         return binary_recursive_search(a, mid + 1, right, x);
 }
-
+//非递归
 int binary_search(int a[], int n, int x)
 {
     int left, right, mid;
