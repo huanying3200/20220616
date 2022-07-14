@@ -1,0 +1,3 @@
+/home/mengwei/mycode/20220616/DesignPatterns/原则/合成复用原则/build/CMakeFiles/rebuild_cache.dir
+/home/mengwei/mycode/20220616/DesignPatterns/原则/合成复用原则/build/CMakeFiles/edit_cache.dir
+/home/mengwei/mycode/20220616/DesignPatterns/原则/合成复用原则/build/CMakeFiles/main.dir

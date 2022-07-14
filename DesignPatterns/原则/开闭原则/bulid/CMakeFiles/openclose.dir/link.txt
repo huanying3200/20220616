@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/openclose.dir/openclose.cpp.o  -o openclose -rdynamic 
